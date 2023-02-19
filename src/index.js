@@ -8,7 +8,7 @@ import { useState } from 'react';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <p>test app1</p>
   </React.StrictMode>,
   document.getElementById('root')
 );
